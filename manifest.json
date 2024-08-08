@@ -1,0 +1,29 @@
+{
+	"short_name": "TextUtils",
+	"name": "TextUtils - A Text Manipulation Tool",
+	"description": "A web application for manipulating and analyzing text with various features like case conversion, text cleaning, and more.",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "logo-192x192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "logo-512x512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff",
+	"orientation": "portrait-primary",
+	"scope": "/",
+	"prefer_related_applications": false
+}
